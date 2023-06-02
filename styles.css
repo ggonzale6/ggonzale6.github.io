@@ -1,4 +1,7 @@
-#background {
-    color:aliceblue
+body {
+    background-color: azure;
+    color:black;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
